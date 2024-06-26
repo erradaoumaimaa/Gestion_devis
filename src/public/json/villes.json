@@ -1,0 +1,13 @@
+[
+    { "id": 1, "name": "Casablanca" },
+    { "id": 2, "name": "Rabat" },
+    { "id": 3, "name": "Marrakech" },
+    { "id": 4, "name": "Tanger" },
+    { "id": 5, "name": "Fès" },
+    { "id": 6, "name": "Agadir" },
+    { "id": 7, "name": "Essaouira" },
+    { "id": 8, "name": "Ouarzazate" },
+    { "id": 9, "name": "Chefchaouen" },
+    { "id": 10, "name": "El Jadida" },
+    { "id": 11, "name": "Safi"}
+  ]
